@@ -1,5 +1,5 @@
 # sahilbora.github.io
- https://sahilvinodbora-spec.github.io/netflix-/
+ https://sahilvinodbora-spec.github.io/Page-Design-/
  
  https://sahilvinodbora-spec.github.io/Music-App/
 
@@ -53,8 +53,8 @@ I enjoy creating interactive applications and exploring new technologies.
 
 ## 💻 Projects (Live Demos)
 
-### 🎬 Netflix Clone
-[![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge)](https://sahilvinodbora-spec.github.io/netflix-/)  
+### 🎬 Page Design 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge)](https://sahilvinodbora-spec.github.io/Page-Design-/)  
 <img src="https://raw.githubusercontent.com/sahilvinodbora-spec/netflix-/main/screenshot.png" width="600" alt="Netflix Clone Screenshot" />
 
 ---
