@@ -14,7 +14,7 @@ https://sahilvinodbora-spec.github.io/Tic-Tac-Toe/
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F77205&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Vinod+Bora!" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F77205&center=true&vCenter=true&width=600&lines=A+Passionate+Web+Developer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F77205&center=true&vCenter=true&width=600&lines=RRReact+%7C+Express+%7C+MongoDB+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F77205&center=true&vCenter=true&width=600&lines=RRReact+%7C+Express.js+%7C+MongoDB+%7C+JavaScript" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F77205&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+TailwindCss+%7C+Node.js" alt="Typing SVG" />
 </p>
 
