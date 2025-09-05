@@ -116,7 +116,7 @@ I enjoy creating interactive applications and exploring new technologies.
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:sahilvinodbora@gmail.com">📧 Email Me</a>
+  <a href="sahilvinodbora@gmail.com">📧 Email Me:-sahilvinodbora@gmail.com</a>
 </p>
 
 
