@@ -116,16 +116,13 @@ I enjoy creating interactive applications and exploring new technologies.
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 Email Me</a>
+  <a href="mailto:sahilvinodbora@gmail.com">📧 Email Me</a>
 </p>
 
 
 ---
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:your.email@example.com">📧 Email Me</a>
-</p>
+
 
 
 
